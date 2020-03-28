@@ -1,16 +1,6 @@
-# photos_app
+# Photo App
+This project are maded to teach about AWS S3 with Java and Flutter.
 
-A new Flutter project.
+The project article on medium: <a href="https://medium.com/@oachgustavo/creating-an-album-photo-application-using-flutter-java-and-aws-s3-1d421c432b0d">Clique Aqui!</a>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+:)
